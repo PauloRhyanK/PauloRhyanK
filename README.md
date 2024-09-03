@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou Paulo Kuster
 
-Sou um desenvolvedor Full Stack com paixão por inovação e tecnologia. Adoro transformar ideias em realidade e resolver problemas através de código e colaborar em projetos que fazem a diferença.
+Sou um desenvolvedor Full Stack com paixão por inovação e tecnologia. Apaixonado por transformar ideias em realidade e resolver problemas através de código e colaborar em projetos que fazem a diferença.
 
 ## 🚀 Sobre Mim
 
@@ -14,7 +14,7 @@ Sou um desenvolvedor Full Stack com paixão por inovação e tecnologia. Adoro t
 
 ## 💼 Projetos em Destaque
 
-### [Agenda Ibrejetibá](https://github.com/PauloRhyanK/EmBreve) (Em Breve)
+### [Agenda Ibrejetibá]([https://github.com/PauloRhyanK/EmBreve](https://github.com/PauloRhyanK/AgendaIbrejetiba)) 
 Esse é o projeto Full Stack que estou desenvolvendo atualemnte, ele será uma agenda para uma empresa usar de forma colaborativa.Este repositório demonstra minhas habilidades em desenvolvimento front-end e back-end, utilizando tecnologias modernas para criar uma aplicação robusta e escalável.
 
 **Tecnologias Utilizadas:**
