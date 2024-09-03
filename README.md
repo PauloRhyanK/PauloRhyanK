@@ -14,7 +14,7 @@ Sou um desenvolvedor Full Stack com paixão por inovação e tecnologia. Apaixon
 
 ## 💼 Projetos em Destaque
 
-### [Agenda Ibrejetibá]([https://github.com/PauloRhyanK/EmBreve](https://github.com/PauloRhyanK/AgendaIbrejetiba)) 
+### [Agenda Ibrejetibá](https://github.com/PauloRhyanK/AgendaIbrejetiba) 
 Esse é o projeto Full Stack que estou desenvolvendo atualemnte, ele será uma agenda para uma empresa usar de forma colaborativa.Este repositório demonstra minhas habilidades em desenvolvimento front-end e back-end, utilizando tecnologias modernas para criar uma aplicação robusta e escalável.
 
 **Tecnologias Utilizadas:**
