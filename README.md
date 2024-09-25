@@ -1,13 +1,13 @@
 # 👋 Olá! Eu sou Paulo Kuster
 
-Sou um desenvolvedor Full Stack com paixão por inovação e tecnologia. Apaixonado por transformar ideias em realidade e resolver problemas através de código e colaborar em projetos que fazem a diferença.
+Sou estudando de ciências da computação, atualmente um desenvolvedor front-end com paixão por inovação e tecnologia, mas com intenção de me aventurar pelo  fullstack. Apaixonado por transformar ideias em realidade e resolver problemas através de código e colaborar em projetos que fazem a diferença.
 
 ## 🚀 Sobre Mim
 
-- 🌱 Atualmente, estou aprofundando meu conhecimento em **Full Stack Development** e **Gerenciamento Empresarial**.
+- 🌱 Atualmente, estou aprofundando meu conhecimento em **Front-end Development** e **Engenharia de Software**.
 - 🎨 Em design tenho habilidades em **Adobe Photoshop**, **Figma** e **Illustrator**, com foco na criação de designs atrativos e funcionais.
 - 🌐 Estou sempre em busca de novos desafios e oportunidades para aprender e crescer.
-- 🛠️ Tenho experiência com **ReactJS**, **Angular**, **Node.js**, **Python**, **C**, **HTML**, **CSS**, **JavaScript** e muito mais.
+- 🛠️ Tenho experiência com **ReactJS**, **Angular**, **Node.js**, **Python**, **C**, **HTML**, **CSS**, **JavaScript**.
 
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PauloRhyanK&layout=compact)-->
 
@@ -15,7 +15,7 @@ Sou um desenvolvedor Full Stack com paixão por inovação e tecnologia. Apaixon
 ## 💼 Projetos em Destaque
 
 ### [Agenda Ibrejetibá](https://github.com/PauloRhyanK/AgendaIbrejetiba) 
-Esse é o projeto Full Stack que estou desenvolvendo atualemnte, ele será uma agenda para uma empresa usar de forma colaborativa.Este repositório demonstra minhas habilidades em desenvolvimento front-end e back-end, utilizando tecnologias modernas para criar uma aplicação robusta e escalável.
+Esse é o projeto Full Stack que estou desenvolvendo atualemnte, ele será uma agenda para uma empresa usar de forma colaborativa.
 
 **Tecnologias Utilizadas:**
 - **Frontend:** React.js, Redux, Styled Components
@@ -60,12 +60,6 @@ Esse é o projeto Full Stack que estou desenvolvendo atualemnte, ele será uma a
 - **GitHub:** [Paulo Kuster](https://github.com/PauloRhyanK)
 - **Email:** paulorhyank@gmail.com
 - **Behance:** [Paulo Kuster](https://www.behance.net/paulork)
-
-## ⚡ Fatos Rápidos
-
-- 💬 Fale comigo sobre **inovação**, **tecnologia**, **desenvolvimento Full Stack** ou **projetos criativos**.
-- 🎧 Apaixonado pelos mais diversos tipos de **música** e **filmes**, gosto de explorar novas culturas através da arte.
-- ✝️ Valorizo profundamente minha fé e estou sempre buscando contribuir positivamente para a minha comunidade.
 
 ---
 
