@@ -1,13 +1,13 @@
 # 👋 Olá! Eu sou Paulo Kuster
 
-Sou estudando de ciências da computação, atualmente um desenvolvedor front-end com paixão por inovação e tecnologia, mas com intenção de me aventurar pelo  fullstack. Apaixonado por transformar ideias em realidade e resolver problemas através de código e colaborar em projetos que fazem a diferença.
+Sou estudante de ciências da computação, desenvolvedor front-end, e me aventurando pelo fullstack. Apaixonado por transformar ideias em realidade e resolver problemas através de código e colaborar em projetos que fazem a diferença.
 
 ## 🚀 Sobre Mim
 
 - 🌱 Atualmente, estou aprofundando meu conhecimento em **Front-end Development** e **Engenharia de Software**.
 - 🎨 Em design tenho habilidades em **Adobe Photoshop**, **Figma** e **Illustrator**, com foco na criação de designs atrativos e funcionais.
 - 🌐 Estou sempre em busca de novos desafios e oportunidades para aprender e crescer.
-- 🛠️ Tenho experiência com **ReactJS**, **Angular**, **Node.js**, **Python**, **C**, **HTML**, **CSS**, **JavaScript**.
+- 🛠️ Tenho experiência com **ReactJS**, **Angular**, **Node.js**, **Python**, **C**, **HTML**, **CSS**, **JavaScript**, **Next.js**, **PostgreSQL**, **Tailwind CSS** e **Bootstrap**.
 
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PauloRhyanK&layout=compact)-->
 
@@ -15,19 +15,14 @@ Sou estudando de ciências da computação, atualmente um desenvolvedor front-en
 ## 💼 Projetos em Destaque
 
 ### [Agenda Ibrejetibá](https://github.com/PauloRhyanK/AgendaIbrejetiba) 
-Esse é o projeto Full Stack que estou desenvolvendo atualemnte, ele será uma agenda para uma empresa usar de forma colaborativa.
+Esse é o projeto Full Stack que estou desenvolvendo atualmente, ele será uma agenda para uma empresa usar de forma colaborativa.
 
 **Tecnologias Utilizadas:**
-- **Frontend:** React.js, Redux, Styled Components
-- **Backend:** Node.js, Express.js, MongoDB
+- **Frontend:** React.js, Redux, Styled Components, **Tailwind CSS**, **Bootstrap**, **Next.js**
+- **Backend:** Node.js, Express.js, MongoDB, **PostgreSQL**
 - **Outras:** Docker, Jest, GitHub Actions
 
 ## 💻 Linguagens e Ferramentas
-
-### 🎨 Prototipação
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/-Adobe%20Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white)
 
 ### 🌐 Front-End
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
@@ -35,6 +30,9 @@ Esse é o projeto Full Stack que estou desenvolvendo atualemnte, ele será uma a
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
 ### 🖥️ Back-End
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
@@ -44,7 +42,13 @@ Esse é o projeto Full Stack que estou desenvolvendo atualemnte, ele será uma a
 
 ### 🗄️ Banco de Dados
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+### 🎨 Prototipação
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/-Adobe%20Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white)
 
 ### 🛠️ Outras Ferramentas
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
