@@ -12,7 +12,7 @@ Sou estudante de ciências da computação, desenvolvedor front-end, e me aventu
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PauloRhyanK&layout=compact)-->
 
 
-## 💼 Projetos em Destaque
+<!--! ## 💼 Projetos em Destaque
 
 ### [Agenda Ibrejetibá](https://github.com/PauloRhyanK/AgendaIbrejetiba) 
 Esse é o projeto Full Stack que estou desenvolvendo atualmente, ele será uma agenda para uma empresa usar de forma colaborativa.
@@ -20,7 +20,7 @@ Esse é o projeto Full Stack que estou desenvolvendo atualmente, ele será uma a
 **Tecnologias Utilizadas:**
 - **Frontend:** React.js, Redux, Styled Components, **Tailwind CSS**, **Bootstrap**, **Next.js**
 - **Backend:** Node.js, Express.js, MongoDB, **PostgreSQL**
-- **Outras:** Docker, Jest, GitHub Actions
+- **Outras:** Docker, Jest, GitHub Actions -->
 
 ## 💻 Linguagens e Ferramentas
 
