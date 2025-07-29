@@ -62,10 +62,10 @@ I'm passionate about transforming ideas into reality through code. I love solvin
 ## 📊 GitHub Stats
 
 <a href="https://github.com/PauloRhyanK/github-readme-stats">
-  <img height=180 src="https://github-readme-stats.vercel.app/api?username=PauloRhyanK&show_icons=true&theme=dark&count_private=true&hide_border=true" />
+  <img height=180 src="https://github-readme-stats.vercel.app/api?username=PauloRhyanK&show_icons=true&theme=dark&count_private=true&hide_border=true&v2" />
 </a>
 <a href="https://github.com/PauloRhyanK/github-readme-stats">
-  <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloRhyanK&layout=compact&theme=dark&hide_border=true" />
+  <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloRhyanK&layout=compact&theme=dark&hide_border=true&v2" />
 </a>
 
 ---
